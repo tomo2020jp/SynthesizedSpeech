@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">合成音声出力アプリ</string>
+    <string name="btnString">音声出力</string>
+</resources>
